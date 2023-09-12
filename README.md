@@ -5,3 +5,4 @@ An app similar to Instagram
 - Navigation Graph
 - MVVM artchitecture
 - Retrofit
+- LiveData
