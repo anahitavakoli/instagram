@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Instagram</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_up">Dont have an account?</string>
+    <string name="forgot">Forgot your login details?</string>
+    <string name="log_in_with_facebook">Log in with Facebook</string>
+    <string name="english_india">English (India)</string>
+    <string name="phone_number_email_or_username">Phone number, email or username</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="or">OR</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="add_post">Add Post</string>
+    <string name="profile">Profile</string>
+</resources>
