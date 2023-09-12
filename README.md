@@ -1,5 +1,6 @@
 # Instagram
 An app similar to Instagram
-#Features
+# Features
 - Navigation Graph
 - MVVM artchitecture
+- Retrofit
