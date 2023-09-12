@@ -6,3 +6,5 @@ An app similar to Instagram
 - MVVM artchitecture
 - Retrofit
 - LiveData
+- Shared Preferences
+- Repository
