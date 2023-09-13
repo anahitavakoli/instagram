@@ -8,3 +8,4 @@ An app similar to Instagram
 - LiveData
 - Shared Preferences
 - Repository
+- Coroutines
